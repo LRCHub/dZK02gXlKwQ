@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ILLUSION",
+  "base_artist": "ATEEZ",
+  "createdAt": "2026-03-01T07:55:13.883740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Illusion",
+      "artist": "Zedd feat. Echosmith",
+      "has_synced": true,
+      "path": "select/01_Illusion_Zedd_feat._Echosmith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Illusion (feat. Echosmith)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/02_Illusion_(feat._Echosmith)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Perfect Illusion",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_Perfect_Illusion_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Illusion",
+      "artist": "Majical Cloudz",
+      "has_synced": true,
+      "path": "select/04_Illusion_Majical_Cloudz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Grand Illusion",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/05_Grand_Illusion_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fatal Illusion",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/06_Fatal_Illusion_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Broken Illusion",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/07_Broken_Illusion_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Just an Illusion",
+      "artist": "September",
+      "has_synced": false,
+      "path": "select/08_Just_an_Illusion_September.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Illusion of Forever",
+      "artist": "Beach House",
+      "has_synced": false,
+      "path": "select/09_Illusion_of_Forever_Beach_House.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Illusion",
+      "artist": "The Creatures",
+      "has_synced": false,
+      "path": "select/10_Illusion_The_Creatures.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's an Illusion (live in Paris)",
+      "artist": "Johnny Clegg And Savuka",
+      "has_synced": false,
+      "path": "select/11_It's_an_Illusion_(live_in_Paris)_Johnny_Clegg_And_Savuka.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just an Illusion",
+      "artist": "Imagination",
+      "has_synced": false,
+      "path": "select/12_Just_an_Illusion_Imagination.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Peace = Illusion",
+      "artist": "ATB",
+      "has_synced": false,
+      "path": "select/13_Peace_=_Illusion_ATB.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Illusion (feat. Sandy) (Sfaction version)",
+      "artist": "Benassi Bros.",
+      "has_synced": false,
+      "path": "select/14_Illusion_(feat._Sandy)_(Sfaction_version)_Benassi_Bros..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Illusion",
+      "artist": "Bassnectar feat. PEEKABOO & Born I",
+      "has_synced": true,
+      "path": "select/15_Illusion_Bassnectar_feat._PEEKABOO_&_Born_I.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Illusion (feat. Born I)",
+      "artist": "Bassnectar & Peekaboo",
+      "has_synced": true,
+      "path": "select/16_Illusion_(feat._Born_I)_Bassnectar_&_Peekaboo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Illusion",
+      "artist": "ATEEZ",
+      "has_synced": false,
+      "path": "select/pl_01_Illusion_ATEEZ.txt"
+    }
+  ]
+}
